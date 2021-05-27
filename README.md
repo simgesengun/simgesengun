@@ -1,10 +1,11 @@
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left"><a href="twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
+<div align="center">
+<img src="https://media4.giphy.com/media/O3LiZOXak8oUVJBwAO/200w.webp?cid=790b7611b41f90c77d764ff909f8b2173e9bb49277ee76fa&rid=200w.webp&ct=g"/>
+<h3>Connect with Me:</h3>
+<p><a href="twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
 <a href="linkedin.com/simge-sengun/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
 <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
 <a href="https://godotengine.org" target="_blank">
 <img height="40" width="40" src="https://github.com/godotengine/godot/blob/master/icon.svg" />
@@ -20,4 +21,4 @@
  </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simgesengun&theme=tokyonight&show_icons=true&locale=en" alt="simgesengun" /></p>
-
+</center>
