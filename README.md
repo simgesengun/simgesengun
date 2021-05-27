@@ -1,5 +1,7 @@
-<div align="center">
+
 <img src="https://media4.giphy.com/media/O3LiZOXak8oUVJBwAO/200w.webp?cid=790b7611b41f90c77d764ff909f8b2173e9bb49277ee76fa&rid=200w.webp&ct=g"/>
+ 
+<div align="left">
 <h3>Connect with Me:</h3>
 <p><a href="twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
 <a href="linkedin.com/simge-sengun/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a></p>
