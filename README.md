@@ -10,8 +10,8 @@
 - 💠 Currently learning Jetpack Compose and preparing articles on migrating to Jetpack Compose.
 
 <h3>Connect with me</h3>
-<p><a href="twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
-<a href="linkedin.com/simge-sengun/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a></p>
+<p><a href="https://twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/simge-sengun/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a></p>
 
 <h3>Languages and Tools</h3>
 <p>
