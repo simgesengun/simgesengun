@@ -7,7 +7,7 @@
  
 - 💻 Junior Android Developer, Indie Game Developer.  
 - 🔮 Currently working on my first game 'Reminiscence', 2d platformer game with elemental skills. 
-- 💠 Currently learning Jetpack Compose and preparing articles about migrating Android applications to Jetpack Compose.
+- 💠 Currently learning Jetpack Compose and preparing articles about migrating to Jetpack Compose.
 
 <h3>Connect with me</h3>
 <p><a href="twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
