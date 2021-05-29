@@ -8,17 +8,15 @@
 - 💻 Junior Android Developer, Indie Game Developer.  
 - 🔮 Currently working on my first game 'Reminiscence', 2d platformer game with elemental skills. 
 - 💠 Currently learning Jetpack Compose and preparing articles on migrating to Jetpack Compose.
-
+<svg path="M21,19V5c0,-1.1 -0.9,-2 -2,-2H5c-1.1,0 -2,0.9 -2,2v14c0,1.1 0.9,2 2,2h14c1.1,0 2,-0.9 2,-2zM8.5,13.5l2.5,3.01L14.5,12l4.5,6H5l3.5,-4.5z"/>
 <h3>Connect with me</h3>
-<p><a href="https://twitter.com/simgesngn"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" /></a>
-<a href="https://www.linkedin.com/in/simge-sengun/"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a></p>
+<p><a href="https://twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/simge-sengun/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a></p>
 
 <h3>Languages and Tools</h3>
 <p>
 <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://godotengine.org" target="_blank">
-<img height="40" width="40" src="https://github.com/godotengine/godot/blob/master/icon.svg" />
-</a>
+<a href="https://godotengine.org" target="_blank"><img height="40" width="40" src="https://github.com/godotengine/godot/blob/master/icon.svg" /></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
