@@ -3,16 +3,16 @@
  
 <div align="left">
  <h3>A little about me</h3>
- Computer Engineering student at Eskişehir Technical University. New experienced and inquisitive in mobile development as well as game development. 
+ Computer Engineering graduate from Eskişehir Technical University. New experienced and inquisitive in mobile development as well as game development. 
  
-- 💻 Junior Android Developer, Indie Game Developer.  
-- 🔮 Currently working on my first game 'Reminiscence', 2d platformer game with elemental skills. 
+- 💻 Junior Android Developer, Indie Game Developer.
 - 💠 Currently learning Jetpack Compose.
 <svg path="M21,19V5c0,-1.1 -0.9,-2 -2,-2H5c-1.1,0 -2,0.9 -2,2v14c0,1.1 0.9,2 2,2h14c1.1,0 2,-0.9 2,-2zM8.5,13.5l2.5,3.01L14.5,12l4.5,6H5l3.5,-4.5z"/>
 <h3>Connect with me</h3>
 <p><a href="https://twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/simge-sengun/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a>
-<a href="https://medium.com/@simgesengun"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" /></a></p>
+<a href="https://medium.com/@simgesengun"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" /></a>
+<a href="https://simisimi.itch.io/"><img height="32" width="32" src="https://static.itch.io/images/itchio-textless-black.svg" /></a></p>
 
 <h3>Languages and Tools</h3>
 <p>
