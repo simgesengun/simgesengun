@@ -3,10 +3,10 @@
  
 <div align="left">
  <h3>A little about me</h3>
- Computer Engineering graduate from Eskişehir Technical University, now working at Getir. New experienced and inquisitive in mobile development as well as game development. 
+ Android Developer at Getir. Passionate about learning programming, creating applications, and keeping in touch with the new technologies. Currently developing with Jetpack Compose on both personal and work related projects, while also developing with View-based UI from time to time to keep skills sharp on both technologies.
  
-- 💻 Junior Android Developer, Indie Game Developer.
-- 💠 Currently learning Jetpack Compose.
+- 💻 Mid-Level Android Developer
+- 💠 Currently learning KMM.
 <svg path="M21,19V5c0,-1.1 -0.9,-2 -2,-2H5c-1.1,0 -2,0.9 -2,2v14c0,1.1 0.9,2 2,2h14c1.1,0 2,-0.9 2,-2zM8.5,13.5l2.5,3.01L14.5,12l4.5,6H5l3.5,-4.5z"/>
 <h3>Connect with me</h3>
 <p><a href="https://twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
