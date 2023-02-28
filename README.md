@@ -3,7 +3,6 @@
  
 <div align="left">
  <h3>A little about me</h3>
- Android Developer at Getir. Passionate about learning programming, creating applications, and keeping in touch with the new technologies. Currently developing with Jetpack Compose on both personal and work related projects, while also developing with View-based UI from time to time to keep skills sharp on both technologies.
  
 - 💻 Mid-Level Android Developer
 - 💠 Currently learning KMM.
