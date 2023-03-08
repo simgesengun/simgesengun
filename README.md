@@ -4,14 +4,30 @@
 <div align="left">
  <h3>A little about me</h3>
  
-- 💻 Mid-Level Android Developer
-- 💠 Currently learning KMM.
-<svg path="M21,19V5c0,-1.1 -0.9,-2 -2,-2H5c-1.1,0 -2,0.9 -2,2v14c0,1.1 0.9,2 2,2h14c1.1,0 2,-0.9 2,-2zM8.5,13.5l2.5,3.01L14.5,12l4.5,6H5l3.5,-4.5z"/>
-<h3>Connect with me</h3>
-<p><a href="https://twitter.com/simgesngn"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/simge-sengun/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a>
-<a href="https://medium.com/@simgesengun"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" /></a>
-<a href="https://simisimi.itch.io/"><img height="32" width="32" src="https://static.itch.io/images/itchio-textless-black.svg" /></a></p>
+- 💻 Android Developer
+- 💠 Currently learning KMP.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simgesengun&theme=tokyonight&show_icons=true&locale=en" alt="simgesengun" /></p>
-</center>
+<p>
+<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Kotlin-6c3dd2?logo=kotlin&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Material%20Design-757575?logo=material-design&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Json-000000?logo=json&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Realm-39477F?logo=realm&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=plastic"/>
+<img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Fastlane-00F200?logo=fastlane&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Bitrise-683D87?logo=bitrise&logoColor=white&style=plastic"/>
+</p>
+ 
+<h3>Connect with me</h3>
+<a href="https://www.linkedin.com/in/simge-sengun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@simgesengun"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://simisimi.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+ 
+<h3>Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=simgesengun&theme=tokyonight&show_icons=true&locale=en" alt="simgesengun" />
+ 
