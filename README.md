@@ -10,17 +10,23 @@
 <p>
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white&style=plastic"/>
 <img src="https://img.shields.io/badge/-Kotlin-6c3dd2?logo=kotlin&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-Material%20Design-757575?logo=material-design&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-Json-000000?logo=json&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Android_jetpack_Libraries-3DDC84?style=plastic"/>
+<img src="https://img.shields.io/badge/-Hilt-2196F3?style=plastic"/>
 <img src="https://img.shields.io/badge/-Realm-39477F?logo=realm&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=plastic"/>
+<img src="https://img.shields.io/badge/-Retrofit-48b983?style=plastic"/>
+<img src="https://img.shields.io/badge/-OKHttp-009485?style=plastic"/>
+<img src="https://img.shields.io/badge/-Kotlin_Coroutines-3DDC84?style=plastic"/>
+<img src="https://img.shields.io/badge/-Detekt-f24554?style=plastic"/>
+<img src="https://img.shields.io/badge/-KTLint-e92063?style=plastic"/>
 <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Gradle_Kotlin_DSL-02303A?style=plastic"/>
 <img src="https://img.shields.io/badge/-Fastlane-00F200?logo=fastlane&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=plastic"/>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=plastic"/>
-<img src="https://img.shields.io/badge/-Bitrise-683D87?logo=bitrise&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/JUnit5-25a162?logo=junit5&logoColor=white&style=plastic"/>
+<img src="https://img.shields.io/badge/Mockito-C5D9C8?style=plastic"/>
 </p>
  
 <h3>Connect with me</h3>
