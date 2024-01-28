@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/simge-sengun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@simgesengun"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://simisimi.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
- 
+<!--
 <h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=simgesengun&theme=tokyonight&show_icons=true&locale=en" alt="simgesengun" />
- 
+-->
